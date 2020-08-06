@@ -8,6 +8,7 @@ const DEFAULT_QUERY = "redux";
 const PATH_BASE = "https://hn.algolia.com/api/v1";
 const PATH_SEARCH = "/search";
 const PARAM_SEARCH = "query=";
+
 //分页
 const PARAM_PAGE = "page=";
 //添加更多的可组合路径常量:设置抓取一定数量
